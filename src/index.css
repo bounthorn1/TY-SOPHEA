@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-rose-50/50 text-gray-800 font-sans antialiased transition-colors duration-300;
+  }
+  .dark body {
+    @apply bg-slate-900 text-slate-200;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary-500 text-white px-8 py-3 rounded-full font-medium hover:bg-primary-600 transition-all shadow-lg hover:shadow-primary-300/50 hover:-translate-y-0.5 duration-300;
+  }
+  .btn-outline {
+    @apply border-2 border-primary-500 text-primary-500 px-8 py-3 rounded-full font-medium hover:bg-primary-500 hover:text-white transition-all duration-300;
+  }
+  .card {
+    @apply bg-white dark:bg-slate-800 p-8 rounded-3xl shadow-sm hover:shadow-xl transition-all duration-500 border border-rose-100/50 dark:border-slate-700;
+  }
+  .input-field {
+    @apply w-full px-5 py-3.5 rounded-xl bg-rose-50/50 dark:bg-slate-700/50 border border-rose-100 focus:outline-none focus:ring-2 focus:ring-primary-400 transition-all placeholder:text-gray-400;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #fff1f2;
+}
+::-webkit-scrollbar-thumb {
+  background: #fda4af;
+  border-radius: 10px;
+}
+.dark ::-webkit-scrollbar-track {
+  background: #1e293b;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #f43f5e;
+}
+
+/* Animation utility */
+.animate-float {
+  animation: floating 4s ease-in-out infinite;
+}
+@keyframes floating {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-15px); }
+  100% { transform: translateY(0px); }
+}
+@font-face {
+  font-family: 'Brittany Signature';
+  src: url('./assets/fonts/BrittanySignature.ttf') format('truetype'); /* Update the path to match your file location */
+  font-weight: normal;
+  font-style: normal;
+}

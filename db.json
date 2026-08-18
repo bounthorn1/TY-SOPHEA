@@ -1,0 +1,169 @@
+{
+  "profile": {
+    "name": "Sophea",
+    "jobTitle": "Professional Accountant",
+    "email": "sophia.chen@example.com",
+    "phone": "+855 12 345 678",
+    "location": "Phnom Penh, Cambodia",
+    "bio": "Detail-oriented and motivated accounting professional with 1 year of experience in accounting and financial operations. Skilled in recording transactions, preparing financial reports, managing invoices, reconciling accounts, and supporting daily accounting activities. I am passionate about accuracy, organization, and continuous professional growth in the accounting field.",
+    "profileImage": "https://res.cloudinary.com/fdotp7p6/image/upload/v1786981348/photo_2026-07-09_19-21-51.jpg",
+    "cvFile": "/assets/cv.pdf"
+  },
+  "skills": [
+    {
+      "id": "1",
+      "name": "Financial Accounting",
+      "percentage": 90
+    },
+    {
+      "id": "2",
+      "name": "Bookkeeping",
+      "percentage": 95
+    },
+    {
+      "id": "3",
+      "name": "Financial Reporting",
+      "percentage": 85
+    },
+    {
+      "id": "4",
+      "name": "Bank Reconciliation",
+      "percentage": 88
+    },
+    {
+      "id": "5",
+      "name": "Tax Preparation",
+      "percentage": 75
+    },
+    {
+      "id": "6",
+      "name": "Microsoft Excel",
+      "percentage": 92
+    }
+  ],
+  "experiences": [
+    {
+      "id": "1",
+      "company": "ABC Finance Co.",
+      "position": "Senior Accountant",
+      "location": "Phnom Penh",
+      "startDate": "2022",
+      "endDate": "Present",
+      "description": "Managing daily financial operations and reporting.",
+      "responsibilities": [
+        "Prepare monthly financial reports",
+        "Manage accounts payable/receivable",
+        "Conduct bank reconciliations"
+      ]
+    },
+    {
+      "id": "2",
+      "company": "Global Tech Ltd.",
+      "position": "Assistant Accountant",
+      "location": "Phnom Penh",
+      "startDate": "2020",
+      "endDate": "2022",
+      "description": "Assisted in payroll and tax preparation.",
+      "responsibilities": [
+        "Process employee payroll",
+        "Assist in tax filing",
+        "Maintain financial records"
+      ]
+    },
+    {
+      "position": "Cashier ",
+      "company": "Yiming",
+      "description": "Operated cash register, processed customer payments (cash, card, mobile), and issued receipts accurately. Managed ticket sales, arcade credits, and game tokens while ensuring smooth customer flow. Provided friendly customer service, answered inquiries, and explained game rules or promotions. Balanced cash drawer daily, recorded transactions, and reported discrepancies. Assisted in maintaining a clean, safe, and fun environment for all guests.",
+      "id": "Iowmkr4jZQI"
+    }
+  ],
+   "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Accounting and Finance",
+      "university": "University of Cambodia",
+      "startYear": "2016",
+      "graduationYear": "2020",
+      "description": "Graduated with Honors. Specialized in Corporate Finance and Advanced Taxation.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyPOjxjl0l0xUIdDF8JbrVgPN8W4Wh79jpEy1YQYAtagSfZKVuwKkpJRQcFvNIiy36lgwMn56dN4oBdNqmsxHzKZzdXm630fkiNwnSzwpsds_uetpWB6jAsCGSuAqUEFooGPftVy387jM/s1600/rupp.jpg"
+    },
+    {
+      "id": 2,
+      "degree": "High School Diploma",
+      "university": "Phnom Penh International School",
+      "startYear": "2013",
+      "graduationYear": "2016",
+      "description": "Focused on Mathematics and Economics, graduating top of the class.",
+      "image": "https://cdn.kiripost.com/static/images/IMG_6542.2e16d0ba.fill-480x360.jpg"
+    }
+  ],
+   "certifications": [
+    {
+      "id": 1,
+      "name": "Certified Public Accountant (CPA)",
+      "organization": "ACCA",
+      "date": "2021",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80",
+      "description": "Certified professional accounting qualification.",
+      "pdfUrl": "https://example.com/your-certificate.pdf"
+    },
+     {
+      "id": 2,
+      "name": "Certified Public Accountant (CPA)",
+      "organization": "ACCA",
+      "date": "2021",
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80",
+      "description": "Certified professional accounting qualification.",
+      "pdfUrl": "https://example.com/your-certificate.pdf"
+    }
+  
+  ],
+   "projects": [
+    {
+      "id": 1,
+      "title": "Financial Reporting Dashboard",
+      "description": "Created a comprehensive financial reporting dashboard to visualize monthly revenue, expenses, and profit margins. Automated data entry processes to reduce manual errors by 95%.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+      "skills": ["Financial Reporting", "Data Analysis"],
+      "tools": ["Microsoft Excel", "Power BI"],
+      "date": "2024"
+    },
+     {
+      "id": 2,
+      "title": "Financial Reporting Dashboard",
+      "description": "Created a comprehensive financial reporting dashboard to visualize monthly revenue, expenses, and profit margins. Automated data entry processes to reduce manual errors by 95%.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+      "skills": ["Financial Reporting", "Data Analysis"],
+      "tools": ["Microsoft Excel", "Power BI"],
+      "date": "2024"
+    },
+      {
+      "id": 3,
+      "title": "Financial Reporting Dashboard",
+      "description": "Created a comprehensive financial reporting dashboard to visualize monthly revenue, expenses, and profit margins. Automated data entry processes to reduce manual errors by 95%.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80",
+      "skills": ["Financial Reporting", "Data Analysis"],
+      "tools": ["Microsoft Excel", "Power BI"],
+      "date": "2024"
+    }
+  ],
+  "socialLinks": [
+    {
+      "id": "1",
+      "name": "LinkedIn",
+      "url": "#"
+    },
+    {
+      "id": "2",
+      "name": "Telegram",
+      "url": "#"
+    },
+    {
+      "id": "3",
+      "name": "Facebook",
+      "url": "#"
+    }
+  ],
+  "messages": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
